@@ -52,7 +52,7 @@ The script expects the following folder structure where the *fastq.gz* files are
 </pre>
    
 The script also expects a *.xlsx* file, that contains information about the position of the samples on a 96-well-plate, the links between *Barcodes* and *sequenceID* and the DNA concentration (alternatively this column can be used for the Ct-values). 
-It is possible to download a template of the xlsx file [here](https://github.com/garcia-nacho/FHI_SC2_Pipeline_Illumina/blob/master/Template_FHISC2_Illumina.xlsx?raw=true)
+It is possible to download a template of the xlsx file [here](https://github.com/folkehelseinstituttet/FHI_SC2_Pipeline_Nanopore/blob/master/Template.xlsx?raw=true)
 
 ## Outputs
 -Summary including mutations found, pangolin lineage, number of reads, coverage, depth, etc...   
